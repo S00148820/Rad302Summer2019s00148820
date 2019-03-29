@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rad302SummerWebAPIs00148820", "Rad302SummerWebAPIs00148820\Rad302SummerWebAPIs00148820.csproj", "{0F144A4D-A726-4E93-8A87-71122DEE6DED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rad302Summer2019ConsoleClients00148820", "Rad302Summer2019ConsoleClients00148820\Rad302Summer2019ConsoleClients00148820.csproj", "{8E67FB32-3664-4FF8-BA6F-C3A50E9F233F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rad302Summer2019DataLayers00148820", "Rad302Summer2019DataLayers00148820\Rad302Summer2019DataLayers00148820.csproj", "{E9635F86-B007-4D04-91B2-CF0C5EF062A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rad302WebAPIClientLibrarys00148820", "Rad302WebAPIClientLibrarys00148820\Rad302WebAPIClientLibrarys00148820.csproj", "{60732DD3-C54B-441D-A04C-DC0BDA9FC4DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{0F144A4D-A726-4E93-8A87-71122DEE6DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F144A4D-A726-4E93-8A87-71122DEE6DED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F144A4D-A726-4E93-8A87-71122DEE6DED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E67FB32-3664-4FF8-BA6F-C3A50E9F233F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E67FB32-3664-4FF8-BA6F-C3A50E9F233F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E67FB32-3664-4FF8-BA6F-C3A50E9F233F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E67FB32-3664-4FF8-BA6F-C3A50E9F233F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9635F86-B007-4D04-91B2-CF0C5EF062A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9635F86-B007-4D04-91B2-CF0C5EF062A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9635F86-B007-4D04-91B2-CF0C5EF062A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9635F86-B007-4D04-91B2-CF0C5EF062A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60732DD3-C54B-441D-A04C-DC0BDA9FC4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60732DD3-C54B-441D-A04C-DC0BDA9FC4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60732DD3-C54B-441D-A04C-DC0BDA9FC4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60732DD3-C54B-441D-A04C-DC0BDA9FC4DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
